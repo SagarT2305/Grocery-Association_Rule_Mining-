@@ -1,4 +1,4 @@
-# Grocery Itemsets-
+# Grocery Itemsets
 
 Problem Statement: This is the problem of Association Rule Mining. In this dataset of grocery products, it is required to find out which items are bought together frequently.
 
